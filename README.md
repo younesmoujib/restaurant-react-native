@@ -4,8 +4,6 @@ This is a React Native mobile app that allows users to select a city and an area
 
 ## Features
 
-## Features
-
 - Users can select a city from the provided list.
 - Users can select an area within the selected city.
 - The application will display a list of restaurants in the chosen area.
